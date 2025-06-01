@@ -12,3 +12,13 @@ open a Terminal and run the following commands:
 
 - npm create vite@latest frontend -- --template react-ts
 - cd frontend && npm install && npm run dev
+
+**Step2-** create the Backend Project
+open initialz and create a project with the following metadata:
+
+- Build Tool: Maven
+- Language: Java
+- Spring Boot Version: 3.5.0
+- packaging: jar
+- Java Version: 21
+- dependencies: web, JPA, Postgres Driver, Lombok, DevTools, Security, Validation, JJWT
